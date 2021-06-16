@@ -1,0 +1,36 @@
+body{
+  background-color: blueviolet;
+}
+h1{
+  color: brown;
+  text-align: center;
+
+}
+img {
+  float: right;
+  margin-top: none;
+  border: darkblue;
+
+}
+h2{
+  color: black;
+  font-weight: 200;
+}
+p{
+  font-style: italic;
+  font-size: medium;
+
+}
+h4{
+  font-size: medium;
+  color: chocolate;
+}
+
+h5{
+  color:white;
+  font-size: medium;
+}
+p1{
+  color: black;
+  float:right;
+}
